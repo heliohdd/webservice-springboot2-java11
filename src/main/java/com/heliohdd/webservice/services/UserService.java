@@ -3,6 +3,7 @@ package com.heliohdd.webservice.services;
 import java.util.List;
 import java.util.Optional;
 
+import org.hibernate.sql.Delete;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -27,5 +28,9 @@ public class UserService {
 	
 	public User insert(User user) {
 		return userRepository.save(user);
+	}
+	
+	public void delete(Long id) {
+		userRepository.deleteById(id);
 	}
 }
