@@ -1,6 +1,9 @@
 # API webservice - Back-End da Plataforma
-Web service project developed in Spring Boot 2 and JPA / Hibernate.
+Projeto desenvolvido em Spring Boot com JPA/Hibernate com implantação na Plataforma Heroku.
 
+Esta plataforma disponibiliza a aplicação seguindo o modelo mais atual de conteinerização fornecendo alta capacidade de escalabilidade conforme a necessidade.
+
+A aplicação pode ser testada diretamente no endereço web em https://webservice-spring-jpa-heroku.herokuapp.com/users onde será listado no formato ```JSON``` uma listagem dos usuários cadastrados.
 ## Get Started
 Para testar esta API é necessário rodar o projeto através do [STS - Spring Tools Suíte](https://spring.io/tools) que é um Eclipse adaptado para desenvolvimento no Spring Boot.
 Também é recomendado a utilização do [Postman](https://www.postman.com/downloads/) para execução da nossa plataforma, assim você não precisará configurar seu ambiente.
