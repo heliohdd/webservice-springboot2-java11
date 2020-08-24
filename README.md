@@ -1,14 +1,13 @@
 <h3>
     <a href=https://webservice-spring-jpa-heroku.herokuapp.com/users>Demonstração</a>
 </h3>
-
+Observação: Pode ser que a aplicação leve alguns segundos na primeira vez que for ativado o link.
 
 # Índice
 - [Sobre](#-sobre)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Estrutura das Entidades](#-estrutura-das-entidades)
-- [Como conferir o projeto na internet](#-como-conferir-o-projeto-na-internet)
-<!-- [Como testar o projeto no Postman](#-como-usar-o-projeto-no-postman)-->
+- [Como conferir o projeto na internet](#-como-conferir-o-projeto-na-internet)<!-- [Como testar o projeto no Postman](#-como-usar-o-projeto-no-postman)-->
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 
