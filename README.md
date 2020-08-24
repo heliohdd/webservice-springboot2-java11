@@ -8,13 +8,13 @@
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Estrutura das Entidades](#-estrutura-das-entidades)
 - [Como conferir o projeto na internet](#-como-conferir-o-projeto-na-internet)
-- [Como testar o projeto no Postman](#-como-usar-o-projeto-no-postman)
+<!-- [Como testar o projeto no Postman](#-como-usar-o-projeto-no-postman)-->
 - [Como baixar o projeto](#-como-baixar-o-projeto)
 
 
 
 
-## 🔖Sobre
+## 🔖 Sobre
 
 O projeto **WebService** é a implementação de uma **API RESTful** na Plataforma Heroku que é um PaaS, ou seja, uma plataforma como serviço que oferece recursos de alta **escalabilidade** seguindo o moderno modelo de **containers** que permitem alta **disponibilidade** da aplicação.
 
@@ -26,7 +26,7 @@ Este é um projeto demonstrativo que mostra na prática a implementação de um 
 
 ---
 
-## 🚀Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
 O projeto foi  desenvolvido utilizando as seguintes tecnologias.
 <!--
@@ -44,7 +44,7 @@ O projeto foi  desenvolvido utilizando as seguintes tecnologias.
 
 ---
 
-## 🧮Estrutura das Entidades
+## 🧮 Estrutura das Entidades
 
 Estão disponiveis  as entidades ```Clientes```, ```Pedidos```, ```Produtos``` e ```Categorias```  sendo estruturadas como exemplos abaixo:
 
@@ -89,7 +89,7 @@ Estão disponiveis  as entidades ```Clientes```, ```Pedidos```, ```Produtos``` e
 }
 ```
 
-## 📂Como conferir o projeto na internet
+## 📂 Como conferir o projeto na internet
 
 O projeto se encontra no endereço https://webservice-spring-jpa-heroku.herokuapp.com/users.
 
@@ -113,7 +113,7 @@ Esta **API** pode ter toda sua funcionalidade testada através do aplicativo [Po
 ---
 -->
 
-## 📂Como baixar o projeto
+## 📂 Como baixar o projeto
 
 ```bash
 # Clonar o repositório
